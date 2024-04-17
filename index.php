@@ -1,1 +1,0 @@
-<?php header("Location: https://apps.apple.com/us/app/tabbed-frictionless-dining/id1660579019"); ?>
